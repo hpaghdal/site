@@ -126,11 +126,11 @@ body {
 
 }
 #three {
-  background-color: blue;
+  background-color: white;
 }
 
 #four {
-  background-color: black;
+  background-color: white;
   color: white;
 }
 .boxWidth {
@@ -173,8 +173,8 @@ ul {
   line-height: 70px;
 }
 #menu {
-  background-color:blue;
-  width: 593px;
+  background-color:white;
+  width: 250px;
   float: left;
 
 }
