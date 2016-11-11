@@ -87,9 +87,122 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+  height: 1000px;
+  margin: 0px;  
+}
+#sliderMenu ul {
+  margin: 0px;
+}
+#sliderMenu a {
+  color: white;
+}
+#one { 
+  background-color: green;
+  position: fixed;
+  top: 0px;
+  width: 960px;
+}
+#two {
+  background-color: red;
+  margin-top: 22px;
+  background-image: url("../img/hero.jpg");
+  background-repeat: none;
+  background-size: cover;
+  background-position: 0px;
+  height: 366px;
 
+}
+#featureSection {
+  height: 367px;
+}
+#featureOne {
+  float: left;
+  width: 50%;
+}
+#featureTwo {
+  float: left;
+  width: 50%;
 
+}
+#three {
+  background-color: blue;
+}
 
+#four {
+  background-color: black;
+  color: white;
+}
+.boxWidth {
+  width: 200px;
+}
+.floatLeft {
+  float: left;
+}
+.clear {
+  clear: both;
+}
+
+#sliderMenu li, #menu li {
+     display:inline;
+   }
+ul {
+     margin: 0px;
+     padding: 0px;
+}
+#wrapper {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#banner {
+  clear: both;
+  background-image: url("http://i.imgur.com/EN6VnDg.gif");
+  height: 404px;
+  background-size: cover;
+  width: 960px;
+  background-repeat: no-repeat;
+}
+#banner h1 {
+  margin: 0px;
+  padding: 0px;
+}
+#header {
+  background-color:red;
+  height: 70px;
+  line-height: 70px;
+}
+#menu {
+  background-color:blue;
+  width: 593px;
+  float: left;
+
+}
+#menu a {
+  color: white;
+}
+
+#logo {
+  background-color: black;
+  width: 367px;
+  float: left;
+}
+#logo h1 {
+  padding: 0px;
+  margin: 0px;
+}
+#feature1, #feature2, #feature3 {
+  float: left;
+  width: 320px;
+
+}
+#banner img {
+  width: 100%;
+}
+#footer {
+  background-color: yellow;
+  clear: both;
+}
 
 
 
@@ -119,10 +232,6 @@ textarea {
 /*
  * Hide only visually, but have it available for screen readers:
  * https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
- *
- * 1. For long content, line feeds are not interpreted as spaces and small width
- *    causes content to wrap 1 word per line:
- *    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
  */
 
 .visuallyhidden {
@@ -134,7 +243,6 @@ textarea {
     padding: 0;
     position: absolute;
     width: 1px;
-    white-space: nowrap; /* 1 */
 }
 
 /*
@@ -151,7 +259,6 @@ textarea {
     overflow: visible;
     position: static;
     width: auto;
-    white-space: inherit;
 }
 
 /*
@@ -279,4 +386,3 @@ textarea {
     h3 {
         page-break-after: avoid;
     }
-}
