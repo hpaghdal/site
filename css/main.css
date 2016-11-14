@@ -89,7 +89,8 @@ textarea {
    ========================================================================== */
 body {
   height: 350px;
-  margin: 0px;  
+  margin: 0px;
+  background-color: pink;
 }
 #sliderMenu ul {
   margin: 0px;
