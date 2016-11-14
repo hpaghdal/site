@@ -174,9 +174,11 @@ ul {
   line-height: 70px;
 }
 #menu {
-  background-color:green;
-  width: 250px;
+  background-color:grey;
+  width: 400px;
   float: left;
+  position: static;
+ 
 
 }
 #menu a {
