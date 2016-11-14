@@ -177,7 +177,7 @@ ul {
   background-color:blue;
   width: 325px;
   float: left;
-  position: fixed;
+  position: absolute;
 }
 
 #menu a{
