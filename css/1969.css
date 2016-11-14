@@ -1,3 +1,4 @@
+
 /*
  * What follows is the result of much research on cross-browser styling.
  * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
@@ -158,7 +159,6 @@ ul {
 #banner {
   clear: both;
   background-image: url("http://i.imgur.com/EN6VnDg.gif");
-  background-color: red;
   height: 404px;
   background-size: cover;
   width: 960px;
@@ -174,8 +174,8 @@ ul {
   line-height: 70px;
 }
 #menu {
-  background-color:grey;
-  width: 400px;
+  background-color:green;
+  width: 250px;
   float: left;
 
 }
