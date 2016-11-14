@@ -180,7 +180,9 @@ ul {
   
 }
 #menu a {
-  color: green;
+  color: green
+  width: 375px;
+  float: left;
 }
 
 #logo {
