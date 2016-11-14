@@ -174,11 +174,10 @@ ul {
   line-height: 70px;
 }
 #menu {
-  background-color:blue;
-  width: 400px;
+  background-color:red;
+  width: 375px;
   float: left;
   
-
 }
 #menu a {
   color: blue;
