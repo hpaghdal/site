@@ -91,7 +91,7 @@ textarea {
 body {
   height: 750px;
   margin: 0px;  
-  background-color: blue;
+  background-color: white;
 }
 #sliderMenu ul {
   margin: 0px;
@@ -100,7 +100,7 @@ body {
   color: white;
 }
 #one { 
-  background-color: blue;
+  background-color: white;
   position: fixed;
   top: 0px;
   width: 960px;
