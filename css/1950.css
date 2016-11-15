@@ -100,13 +100,13 @@ body {
   color: white;
 }
 #one { 
-  background-color: white;
+  background-color: green;
   position: fixed;
   top: 0px;
   width: 960px;
 }
 #two {
-  background-color: blue;
+  background-color: white;
   margin-top: 22px;
   background-image:;
   background-repeat: none;
