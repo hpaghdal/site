@@ -91,14 +91,17 @@ textarea {
 body {
   height: 750px;
   margin: 0px; 
-  font-family: 'Times New Roman', SERIF;
-  font-style: italic;
 }
 #sliderMenu ul {
   margin: 0px;
 }
 #sliderMenu a {
   color: white;
+}
+#p {
+  font-size: 1em;
+  font-family: 'Times New Roman', SERIF;
+  font-style: italic;
 }
 #one { 
   background-color: green;
