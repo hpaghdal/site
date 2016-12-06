@@ -187,13 +187,16 @@ ul {
   background-color: white;
   width: 367px;
   float: left;
-  font-size: 1em;
-  font-family: 'Times New Roman', SERIF;
-  font-style: italic;
+
 }
 #logo h1 {
   padding: 0px;
   margin: 0px;
+}
+#logo p {
+  font-size: 1em;
+  font-family: 'Times New Roman', SERIF;
+  font-style: italic;
 }
 #feature1, #feature2, #feature3 {
   float: left;
