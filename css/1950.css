@@ -194,6 +194,12 @@ ul {
   padding: 0px;
   margin: 0px;
 }
+#jc licklider {
+  margin-left:auto;
+  margin-right:auto;
+  top: 50px;
+  left: 260px;
+}
 #feature1, #feature2, #feature3 {
   float: left;
   width: 320px;
