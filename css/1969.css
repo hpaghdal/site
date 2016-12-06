@@ -194,6 +194,8 @@ ul {
 #logo h1 {
   padding: 0px;
   margin: 0px;
+  background-color: FF4C4C;
+    
 }
 #feature1, #feature2, #feature3 {
   float: left;
