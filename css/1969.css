@@ -13,10 +13,7 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
-    font-family: 'Times New Roman', SERIF;
-    font-style: italic;
-}
-}
+    }
 
 /*
  * Remove text-shadow in selection highlight:
@@ -93,7 +90,9 @@ textarea {
    ========================================================================== */
 body {
   height: 750px;
-  margin: 0px;  
+  margin: 0px; 
+  font-family: 'Times New Roman', SERIF;
+  font-style: italic;
 }
 #sliderMenu ul {
   margin: 0px;
