@@ -98,11 +98,6 @@ body {
 #sliderMenu a {
   color: white;
 }
-#p {
-  font-size: 1em;
-  font-family: 'Times New Roman', SERIF;
-  font-style: italic;
-}
 #one { 
   background-color: green;
   position: fixed;
@@ -192,6 +187,9 @@ ul {
   background-color: white;
   width: 367px;
   float: left;
+  font-size: 1em;
+  font-family: 'Times New Roman', SERIF;
+  font-style: italic;
 }
 #logo h1 {
   padding: 0px;
