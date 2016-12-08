@@ -195,7 +195,7 @@ ul {
 #logo p {
   font-size: 1em;
   font-family: 'Times New Roman', SERIF;
-  font-style: italic;
+  font-style: Normal;
 }
 #feature1, #feature2, #feature3 {
   float: left;
